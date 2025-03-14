@@ -94,7 +94,7 @@
             <p class="card-text">O curso de Edificações prepara profissionais para atuar na construção civil,
               desenvolvendo projetos, gerenciando obras e garantindo a qualidade das edificações. Com foco em técnicas
               construtivas, sustentabilidade e normas técnicas, forma especialistas essenciais para o setor.</p>
-            <a href="edificacao.php" class="btn btn-primary">Visitar</a>
+            <a href="./Cursos/edificacao.php" class="btn btn-primary">Visitar</a>
           </div>
         </div>
       </div>
@@ -109,7 +109,7 @@
             <p class="card-text">O curso de Enfermagem capacita profissionais para atuar na promoção, prevenção e
               recuperação da saúde, prestando assistência humanizada. Com foco em técnicas de cuidado, ética e
               biossegurança, forma especialistas essenciais para a área da saúde.</p><br>
-            <a href="enfermagem.php" class="btn btn-primary">Visitar</a>
+            <a href="./Cursos/enfermagem.php" class="btn btn-primary">Visitar</a>
           </div>
         </div>
       </div>
@@ -124,7 +124,7 @@
             <p class="card-text">O curso de Estética capacita profissionais para atuar na beleza e bem-estar, oferecendo
               tratamentos faciais, corporais e capilares. Com foco em técnicas avançadas, saúde e inovação, forma
               especialistas essenciais para o setor estético.</p>
-            <a href="estetica.php" class="btn btn-primary">Visitar</a>
+            <a href="./Cursos/estetica.php" class="btn btn-primary">Visitar</a>
           </div>
         </div>
       </div>
@@ -139,7 +139,7 @@
             <p class="card-text">O curso de Desenvolvimento de Sistemas capacita profissionais para criar, testar e
               manter softwares, aplicativos e bancos de dados. Com foco em programação, inovação e segurança, forma
               especialistas essenciais para a tecnologia.</p>
-            <a href="desenvolvimento.php" class="btn btn-primary">Visitar</a>
+            <a href="./Cursos/desenvolvimento.php" class="btn btn-primary">Visitar</a>
           </div>
         </div>
       </div>

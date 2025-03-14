@@ -62,10 +62,15 @@
                         Cursos
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="curso1.php">Curso 1</a></li>
-                        <li><a class="dropdown-item" href="curso2.php">Curso 2</a></li>
-                        <li><a class="dropdown-item" href="curso3.php">Curso 3</a></li>
+                        <li><a class="dropdown-item" href="curso1.php">Agricultura</a></li>
+                        <li><a class="dropdown-item" href="curso2.php">Agronegocio</a></li>
+                        <li><a class="dropdown-item" href="curso3.php">Desenvolvimento de sistemas</a></li>
                         <li><a class="dropdown-item" href="curso4.php">Curso 4</a></li>
+                        <li><a class="dropdown-item" href="curso5.php">Curso 5</a></li>
+                        <li><a class="dropdown-item" href="curso6.php">Curso 6</a></li>
+                        <li><a class="dropdown-item" href="curso7.php">Curso 7</a></li>
+                        <li><a class="dropdown-item" href="curso8.php">Curso 8</a></li>
+                        <li><a class="dropdown-item" href="curso9.php">Curso 9</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

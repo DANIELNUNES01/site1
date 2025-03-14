@@ -35,16 +35,16 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                    <a class="nav-link fs-5 py-2 px-3" href="index.php">Home</a>
+                    <a class="nav-link fs-5 py-2 px-3" href="../index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link fs-5 py-2 px-3" href="sobre.php">Sobre</a>
+                    <a class="nav-link fs-5 py-2 px-3" href="../sobre.php">Sobre</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link fs-5 py-2 px-3" href="cursos.php">Cursos</a>
+                    <a class="nav-link fs-5 py-2 px-3" href="../cursos.php">Cursos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link fs-5 py-2 px-3" href="noticias.php">Notícias</a>
+                    <a class="nav-link fs-5 py-2 px-3" href="../noticias.php">Notícias</a>
                 </li>
             </ul>
         </div>
